@@ -1,0 +1,64 @@
+{
+  "name": "@mixmaxhq/semantic-release-config",
+  "version": "0.0.0-development",
+  "description": "The shared configuration we use for `semantic-release`.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "ci": "npm run lint",
+    "lint": "eslint . && commitlint-jenkins --if-ci",
+    "prepublishOnly": "if [ \"$CI\" = '' ]; then node -p 'JSON.parse(process.env.npm_package_config_manualPublishMessage)'; exit 1; fi",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mixmaxhq/semantic-release-config.git"
+  },
+  "keywords": [
+    "semantic-release"
+  ],
+  "author": "Eli Skeggs <eli@mixmax.com> (https://mixmax.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mixmaxhq/semantic-release-config/issues"
+  },
+  "homepage": "https://github.com/mixmaxhq/semantic-release-config#readme",
+  "dependencies": {
+    "@semantic-release/changelog": "^3.0.5",
+    "@semantic-release/commit-analyzer": "^6.3.1",
+    "@semantic-release/git": "^7.0.17",
+    "@semantic-release/github": "^5.5.5",
+    "@semantic-release/npm": "^5.3.2",
+    "@semantic-release/release-notes-generator": "^7.3.2"
+  },
+  "devDependencies": {
+    "@commitlint/config-conventional": "^8.2.0",
+    "@mixmaxhq/commitlint-jenkins": "^1.2.1",
+    "@mixmaxhq/prettier-config": "^1.0.0",
+    "cz-conventional-changelog": "^3.0.2",
+    "eslint": "^6.6.0",
+    "eslint-config-mixmax": "^3.4.0",
+    "prettier": "^1.18.2",
+    "semantic-release": "^15.13.28"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    },
+    "manualPublishMessage": "This repository is configured to use semantic-release for its releases. Please do not release manually.\n"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "release": {
+    "extends": "./index.js"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}
