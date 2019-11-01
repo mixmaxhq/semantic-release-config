@@ -1,6 +1,6 @@
 module.exports = [
   {
     type: 'improvement',
-    release: 'patch',
+    release: 'minor',
   },
 ];
