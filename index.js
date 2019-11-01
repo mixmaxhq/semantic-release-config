@@ -18,4 +18,5 @@ module.exports = {
     '@semantic-release/changelog',
     '@semantic-release/git',
   ],
+  verifyRelease: ['@mixmaxhq/semantic-commitlint'],
 };
