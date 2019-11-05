@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/mixmaxhq/semantic-release-config/compare/v1.0.1...v1.1.0) (2019-11-05)
+
+
+### Features
+
+* lint commits since last release ([a1130b9](https://github.com/mixmaxhq/semantic-release-config/commit/a1130b937f883599aa44588e25504ef667365d71))
+
 ### [1.0.1](https://github.com/mixmaxhq/semantic-release-config/compare/v1.0.0...v1.0.1) (2019-11-04)
 
 
