@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/mixmaxhq/semantic-release-config/compare/v1.1.0...v1.2.0) (2019-11-11)
+
+
+### Features
+
+* **deps:** bump conventional-changelog-conventionalcommits ([88c6dec](https://github.com/mixmaxhq/semantic-release-config/commit/88c6dec45573bae1f50d523b6d404472f489805d))
+
 ## [1.1.0](https://github.com/mixmaxhq/semantic-release-config/compare/v1.0.1...v1.1.0) (2019-11-05)
 
 

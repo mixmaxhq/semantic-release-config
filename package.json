@@ -1,6 +1,6 @@
 {
   "name": "@mixmaxhq/semantic-release-config",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "The shared configuration we use for `semantic-release`.",
   "main": "index.js",
   "files": [
