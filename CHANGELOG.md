@@ -1,3 +1,10 @@
+### [1.2.1](https://github.com/mixmaxhq/semantic-release-config/compare/v1.2.0...v1.2.1) (2019-11-12)
+
+
+### Bug Fixes
+
+* **deps:** fix dependency bumps ([3a5274a](https://github.com/mixmaxhq/semantic-release-config/commit/3a5274ad72dadd38dee4b6c45249a6a14acb392f)), closes [#13](https://github.com/mixmaxhq/semantic-release-config/issues/13)
+
 ## [1.2.0](https://github.com/mixmaxhq/semantic-release-config/compare/v1.1.0...v1.2.0) (2019-11-11)
 
 
