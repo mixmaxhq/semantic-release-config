@@ -1,3 +1,10 @@
+### [1.2.3](https://github.com/mixmaxhq/semantic-release-config/compare/v1.2.2...v1.2.3) (2019-11-20)
+
+
+### Bug Fixes
+
+* **deps:** bump @mixmaxhq/semantic-commitlint for format fix ([fbe3afe](https://github.com/mixmaxhq/semantic-release-config/commit/fbe3afe52b668fcb09d6c02e949407d080351c1c))
+
 ### [1.2.2](https://github.com/mixmaxhq/semantic-release-config/compare/v1.2.1...v1.2.2) (2019-11-14)
 
 
