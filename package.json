@@ -43,7 +43,7 @@
     "@mixmaxhq/commitlint-jenkins": "^1.4.1",
     "@mixmaxhq/prettier-config": "^1.0.0",
     "cz-conventional-changelog": "^3.0.2",
-    "eslint": "^6.6.0",
+    "eslint": "^6.7.1",
     "eslint-config-mixmax": "^4.1.0",
     "prettier": "^1.18.2",
     "semantic-release": "^15.13.31"
