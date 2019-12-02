@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/mixmaxhq/semantic-release-config#readme",
   "dependencies": {
-    "@mixmaxhq/semantic-commitlint": "^1.0.2",
+    "@mixmaxhq/semantic-commitlint": "^1.0.3",
     "@semantic-release/changelog": "^3.0.5",
     "@semantic-release/commit-analyzer": "^6.3.3",
     "@semantic-release/git": "^7.0.18",
