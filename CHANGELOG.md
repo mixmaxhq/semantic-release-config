@@ -1,3 +1,10 @@
+### [1.2.4](https://github.com/mixmaxhq/semantic-release-config/compare/v1.2.3...v1.2.4) (2019-12-02)
+
+
+### Bug Fixes
+
+* filler commit to trigger patch semantic-release ([cc7387a](https://github.com/mixmaxhq/semantic-release-config/commit/cc7387afa99353b4b63c060785acd7fbf922f8de))
+
 ### [1.2.3](https://github.com/mixmaxhq/semantic-release-config/compare/v1.2.2...v1.2.3) (2019-11-20)
 
 
