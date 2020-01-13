@@ -1,3 +1,11 @@
+### [1.2.6](https://github.com/mixmaxhq/semantic-release-config/compare/v1.2.5...v1.2.6) (2020-01-13)
+
+
+### Bug Fixes
+
+* **deps:** bump @semantic-release/changelog from 3.0.5 to 3.0.6 ([#22](https://github.com/mixmaxhq/semantic-release-config/issues/22)) ([f489f05](https://github.com/mixmaxhq/semantic-release-config/commit/f489f0581f312eb79aa67831656546aba611aa75))
+* **deps:** bump @semantic-release/release-notes-generator ([#25](https://github.com/mixmaxhq/semantic-release-config/issues/25)) ([c10737c](https://github.com/mixmaxhq/semantic-release-config/commit/c10737c1d71f6393acdbbffa070cbb7811ad4e20))
+
 ### [1.2.5](https://github.com/mixmaxhq/semantic-release-config/compare/v1.2.4...v1.2.5) (2020-01-13)
 
 
