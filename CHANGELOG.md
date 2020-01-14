@@ -1,3 +1,10 @@
+### [1.2.7](https://github.com/mixmaxhq/semantic-release-config/compare/v1.2.6...v1.2.7) (2020-01-14)
+
+
+### Bug Fixes
+
+* **deps:** bump @semantic-release/npm from 5.3.4 to 5.3.5 ([#35](https://github.com/mixmaxhq/semantic-release-config/issues/35)) ([88a0699](https://github.com/mixmaxhq/semantic-release-config/commit/88a06997037ca1ff63ab75858c934e4b2aabc0d3))
+
 ### [1.2.6](https://github.com/mixmaxhq/semantic-release-config/compare/v1.2.5...v1.2.6) (2020-01-13)
 
 
