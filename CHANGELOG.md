@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/mixmaxhq/semantic-release-config/compare/v1.2.7...v2.0.0) (2020-01-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** Various parts of our `semantic-release` configuration may break.
+
+### Bug Fixes
+
+* **deps:** bump semantic-release and friends ([#41](https://github.com/mixmaxhq/semantic-release-config/issues/41)) ([4084197](https://github.com/mixmaxhq/semantic-release-config/commit/40841973213e81ef1887b99c42919880813e74a1))
+
 ### [1.2.7](https://github.com/mixmaxhq/semantic-release-config/compare/v1.2.6...v1.2.7) (2020-01-14)
 
 
