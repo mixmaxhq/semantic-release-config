@@ -18,5 +18,5 @@ module.exports = {
     '@semantic-release/changelog',
     '@semantic-release/git',
   ],
-  verifyRelease: ['@mixmaxhq/semantic-commitlint'], // HACK(shil) comment for release
+  verifyRelease: ['@mixmaxhq/semantic-commitlint'],
 };
