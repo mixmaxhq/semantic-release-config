@@ -44,7 +44,7 @@
     "@mixmaxhq/commitlint-jenkins": "^1.4.3",
     "@mixmaxhq/git-hooks": "^1.1.0",
     "@mixmaxhq/prettier-config": "^1.0.0",
-    "cz-conventional-changelog": "^3.0.2",
+    "cz-conventional-changelog": "^3.2.0",
     "eslint": "^6.8.0",
     "eslint-config-mixmax": "^4.11.0",
     "prettier": "^1.18.2",
