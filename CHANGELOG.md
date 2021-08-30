@@ -1,3 +1,10 @@
+### [2.0.2](https://github.com/mixmaxhq/semantic-release-config/compare/v2.0.1...v2.0.2) (2021-08-30)
+
+
+### Bug Fixes
+
+* update semantic release dependencies ([567ba0a](https://github.com/mixmaxhq/semantic-release-config/commit/567ba0a2938b9674e3b27606b1a2c2c205409d84))
+
 ### [2.0.1](https://github.com/mixmaxhq/semantic-release-config/compare/v2.0.0...v2.0.1) (2020-12-09)
 
 
