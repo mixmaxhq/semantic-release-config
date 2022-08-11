@@ -1,3 +1,10 @@
+### [2.0.3](https://github.com/mixmaxhq/semantic-release-config/compare/v2.0.2...v2.0.3) (2022-08-11)
+
+
+### Bug Fixes
+
+* include branches config to support main ([5b6fa2d](https://github.com/mixmaxhq/semantic-release-config/commit/5b6fa2d117cd76ff0635c482c343c3c48d8d2187))
+
 ### [2.0.2](https://github.com/mixmaxhq/semantic-release-config/compare/v2.0.1...v2.0.2) (2021-08-30)
 
 
