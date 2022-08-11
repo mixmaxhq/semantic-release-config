@@ -19,4 +19,16 @@ module.exports = {
     '@semantic-release/git',
   ],
   verifyRelease: ['@mixmaxhq/semantic-commitlint'],
+  branches: [
+    '+([0-9])?(.{+([0-9]),x}).x',
+    '(master|main)',
+    {
+      name: 'beta',
+      prerelease: true,
+    },
+    {
+      name: 'alpha',
+      prerelease: true,
+    },
+  ],
 };
