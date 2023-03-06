@@ -4,7 +4,7 @@ module.exports = {
       '@semantic-release/commit-analyzer',
       {
         preset: 'conventionalcommits',
-        releaseRules: require('./config/conventionalcommits-release-rules.js'),
+        releaseRules: require('../config/conventionalcommits-release-rules.js'),
       },
     ],
     [

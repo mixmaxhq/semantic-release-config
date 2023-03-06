@@ -2,9 +2,9 @@
   "name": "@mixmaxhq/semantic-release-config",
   "version": "2.0.3",
   "description": "The shared configuration we use for `semantic-release`.",
-  "main": "index.js",
+  "main": "./src/index.js",
   "files": [
-    "index.js",
+    "src",
     "config"
   ],
   "scripts": {
@@ -60,9 +60,6 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
-  },
-  "release": {
-    "extends": "./index.js"
   },
   "publishConfig": {
     "access": "restricted"
