@@ -1,0 +1,6 @@
+{
+  "node": "18.13.0",
+  "npm": "8.19.3",
+  "buildImage": "node-ci-build:v2.0.0",
+  "testImage": "node-ci:v3.0.0"
+}
