@@ -1,6 +1,6 @@
 {
   "name": "@mixmaxhq/semantic-release-config",
-  "version": "2.0.3",
+  "version": "3.0.0",
   "description": "The shared configuration we use for `semantic-release`.",
   "files": [
     "service",
@@ -11,7 +11,6 @@
     "ci": "npm run lint",
     "ci:commitlint": "commitlint-jenkins --pr-only",
     "lint": "eslint .",
-    "prepublishOnly": "if [ \"$CI\" = '' ]; then node -p 'JSON.parse(process.env.npm_package_config_manualPublishMessage)'; exit 1; fi",
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
   },
