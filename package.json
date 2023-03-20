@@ -32,7 +32,8 @@
     "@mixmaxhq/semantic-commitlint": "^1.0.3",
     "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/git": "^10.0.1",
-    "conventional-changelog-conventionalcommits": "^4.2.3"
+    "conventional-changelog-conventionalcommits": "^4.2.3",
+    "semantic-release": "^19.0.5"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
@@ -43,8 +44,7 @@
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.18.0",
     "eslint-config-mixmax": "^5.1.0",
-    "prettier": "^1.18.2",
-    "semantic-release": "^18.0.1"
+    "prettier": "^1.18.2"
   },
   "config": {
     "commitizen": {
