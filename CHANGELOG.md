@@ -1,3 +1,10 @@
+### [3.0.1](https://github.com/mixmaxhq/semantic-release-config/compare/v3.0.0...v3.0.1) (2023-03-22)
+
+
+### Bug Fixes
+
+* dependencies ([1718ba4](https://github.com/mixmaxhq/semantic-release-config/commit/1718ba4653fc6c579b28c5a450f2945d64554b11))
+
 ## [3.0.0](https://github.com/mixmaxhq/semantic-release-config/compare/v2.0.3...v3.0.0) (2023-03-17)
 
 
