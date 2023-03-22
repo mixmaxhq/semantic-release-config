@@ -4,8 +4,7 @@
   "description": "The shared configuration we use for `semantic-release`.",
   "files": [
     "service",
-    "package",
-    "config"
+    "package"
   ],
   "scripts": {
     "ci": "npm run lint",
@@ -32,19 +31,18 @@
     "@mixmaxhq/semantic-commitlint": "^1.0.3",
     "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/git": "^10.0.1",
-    "conventional-changelog-conventionalcommits": "^4.2.3",
     "semantic-release": "^19.0.5"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "@mixmaxhq/commitlint-jenkins": "^1.6.0",
-    "@mixmaxhq/git-hooks": "^1.2.0",
-    "@mixmaxhq/prettier-config": "^1.0.0",
+    "@mixmaxhq/git-hooks": "^1.3.0",
+    "@mixmaxhq/prettier-config": "^1.1.0",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.18.0",
     "eslint-config-mixmax": "^5.1.0",
-    "prettier": "^1.18.2"
+    "prettier": "^2.8.6"
   },
   "config": {
     "commitizen": {
