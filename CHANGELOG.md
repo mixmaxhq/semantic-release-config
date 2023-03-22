@@ -1,3 +1,13 @@
+## [3.0.2-alpha.1](https://github.com/mixmaxhq/semantic-release-config/compare/v3.0.1...v3.0.2-alpha.1) (2023-03-22)
+
+
+### Bug Fixes
+
+* add missing package ([5ed4e33](https://github.com/mixmaxhq/semantic-release-config/commit/5ed4e33b96a32329225516c92db45b52412b802d))
+* branches out of sync ([9e20667](https://github.com/mixmaxhq/semantic-release-config/commit/9e20667835b872c54c1da9e073b02bbb6275673e))
+* bump dependencies ([4897252](https://github.com/mixmaxhq/semantic-release-config/commit/48972526462132ff60f133c7314ec843b56e4292))
+* remove prebublish command ([60a8d9f](https://github.com/mixmaxhq/semantic-release-config/commit/60a8d9f9ef0a3e5ed8276777d9b0839fcc196b24))
+
 ### [3.0.1](https://github.com/mixmaxhq/semantic-release-config/compare/v3.0.0...v3.0.1) (2023-03-22)
 
 
