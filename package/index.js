@@ -11,7 +11,7 @@ module.exports = {
         preset: 'conventionalcommits',
         releaseRules: [
           {
-            type: 'build',
+            type: 'chore',
             scope: 'deps',
             release: 'patch',
           },
