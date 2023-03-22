@@ -10,7 +10,6 @@
     "ci": "npm run lint",
     "ci:commitlint": "commitlint-jenkins --pr-only",
     "lint": "eslint .",
-    "prepublishOnly": "if [ \"$CI\" = '' ]; then node -p 'JSON.parse(process.env.npm_package_config_manualPublishMessage)'; exit 1; fi",
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
   },
@@ -31,6 +30,7 @@
     "@mixmaxhq/semantic-commitlint": "^1.0.3",
     "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/git": "^10.0.1",
+    "conventional-changelog-conventionalcommits": "^5.0.0",
     "semantic-release": "^19.0.5"
   },
   "devDependencies": {
