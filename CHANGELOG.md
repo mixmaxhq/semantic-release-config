@@ -1,3 +1,11 @@
+## [3.0.2-alpha.2](https://github.com/mixmaxhq/semantic-release-config/compare/v3.0.2-alpha.1...v3.0.2-alpha.2) (2023-03-22)
+
+
+### Bug Fixes
+
+* bump deps ([8ae8560](https://github.com/mixmaxhq/semantic-release-config/commit/8ae8560780a23d771d45028e18fc36839b96a5a3))
+* typo ([a85e6a1](https://github.com/mixmaxhq/semantic-release-config/commit/a85e6a197ccaf464d7b1e47bcf54e9e8faf0e6e3))
+
 ## [3.0.2-alpha.1](https://github.com/mixmaxhq/semantic-release-config/compare/v3.0.1...v3.0.2-alpha.1) (2023-03-22)
 
 
