@@ -1,3 +1,31 @@
+### [3.0.1](https://github.com/mixmaxhq/semantic-release-config/compare/v3.0.0...v3.0.1) (2023-03-22)
+
+
+### Bug Fixes
+
+* dependencies ([1718ba4](https://github.com/mixmaxhq/semantic-release-config/commit/1718ba4653fc6c579b28c5a450f2945d64554b11))
+
+## [3.0.0](https://github.com/mixmaxhq/semantic-release-config/compare/v2.0.3...v3.0.0) (2023-03-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* it requires a node version >14.17
+
+### Features
+
+* add service config ([1f86fa2](https://github.com/mixmaxhq/semantic-release-config/commit/1f86fa269b8b3cfb4be686c47360f15479e56d42))
+
+
+### Bug Fixes
+
+* bump dependencies ([cc83608](https://github.com/mixmaxhq/semantic-release-config/commit/cc836089f3d6440c28a8a37518fa2cc4618bdfcb))
+* bump eslint ([fd423c1](https://github.com/mixmaxhq/semantic-release-config/commit/fd423c130ca732f1c16f91f73fcb827adaf101d7))
+* remove old config ([55b04b2](https://github.com/mixmaxhq/semantic-release-config/commit/55b04b28cf6eaeac6aa62227053d2dff5a1db692))
+* update build config ([cab6dd1](https://github.com/mixmaxhq/semantic-release-config/commit/cab6dd174fb67f6e5383ee68d9cb4e56527c8fe2))
+* use new package config ([3fc1b74](https://github.com/mixmaxhq/semantic-release-config/commit/3fc1b7467d4e53305fc762ea12edcd5f05c42e5d))
+* wip ([5466739](https://github.com/mixmaxhq/semantic-release-config/commit/54667391b8c0cb1dcaeab5ea403ca17b0df539ec))
+
 ### [2.0.3](https://github.com/mixmaxhq/semantic-release-config/compare/v2.0.2...v2.0.3) (2022-08-11)
 
 
