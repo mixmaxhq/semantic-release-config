@@ -46,6 +46,18 @@
 
 * **deps:** update dependency node to v18 ([#154](https://github.com/mixmaxhq/semantic-release-config/issues/154)) ([863e2eb](https://github.com/mixmaxhq/semantic-release-config/commit/863e2eb9a2d84ffa84cdc8fbe4b64d02796401df))
 
+## [3.1.0](https://github.com/mixmaxhq/semantic-release-config/compare/v3.0.2...v3.1.0) (2024-03-15)
+
+
+### Features
+
+* add module config ([155a8ee](https://github.com/mixmaxhq/semantic-release-config/commit/155a8eee07bacdce5c4434e6ecefa0d8e2c0fbc6))
+
+
+### Bug Fixes
+
+* **deps:** update dependency node to v18 ([#154](https://github.com/mixmaxhq/semantic-release-config/issues/154)) ([863e2eb](https://github.com/mixmaxhq/semantic-release-config/commit/863e2eb9a2d84ffa84cdc8fbe4b64d02796401df))
+
 ## [3.0.2](https://github.com/mixmaxhq/semantic-release-config/compare/v3.0.1...v3.0.2) (2023-03-22)
 
 
