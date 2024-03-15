@@ -4,7 +4,8 @@
   "description": "The shared configuration we use for `semantic-release`.",
   "files": [
     "service",
-    "package"
+    "package",
+    "module"
   ],
   "scripts": {
     "ci": "npm run lint",
