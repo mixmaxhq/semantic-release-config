@@ -1,3 +1,17 @@
+## [3.1.1](https://github.com/mixmaxhq/semantic-release-config/compare/v3.1.0...v3.1.1) (2024-03-15)
+
+
+### Bug Fixes
+
+* add module to files ([2914f97](https://github.com/mixmaxhq/semantic-release-config/commit/2914f97dff3a81c13d51c9144db9c6189a23c4af))
+
+## [3.1.1](https://github.com/mixmaxhq/semantic-release-config/compare/v3.1.0...v3.1.1) (2024-03-15)
+
+
+### Bug Fixes
+
+* add module to files ([2914f97](https://github.com/mixmaxhq/semantic-release-config/commit/2914f97dff3a81c13d51c9144db9c6189a23c4af))
+
 ## [3.1.0](https://github.com/mixmaxhq/semantic-release-config/compare/v3.0.2...v3.1.0) (2024-03-15)
 
 

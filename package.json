@@ -1,6 +1,6 @@
 {
   "name": "@mixmaxhq/semantic-release-config",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "The shared configuration we use for `semantic-release`.",
   "files": [
     "service",
