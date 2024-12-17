@@ -1,3 +1,22 @@
+## [4.0.0](https://github.com/mixmaxhq/semantic-release-config/compare/v3.1.1...v4.0.0) (2024-12-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* 
+
+### Features
+
+* bump up commitlint ([75e4b47](https://github.com/mixmaxhq/semantic-release-config/commit/75e4b473d6da56c84fb2766009001a704d44a230))
+* bump up commitlint ([889da7a](https://github.com/mixmaxhq/semantic-release-config/commit/889da7a3ae078fe88ac438f2101a2f21347dccd5))
+
+
+### Bug Fixes
+
+* ip vunerability ([7a0b111](https://github.com/mixmaxhq/semantic-release-config/commit/7a0b11175e20ed6dacd9da6b44f8acba71e0182a))
+* **package:** fix critical vunerabilities ([52f7c12](https://github.com/mixmaxhq/semantic-release-config/commit/52f7c12ebfbdeec3963f0781522c86e2c47a262f))
+* **package:** fix critical vunerabilities ([100bb9d](https://github.com/mixmaxhq/semantic-release-config/commit/100bb9d96138b721a80a6df2080672be2a3a2ae6))
+
 ## [3.2.0](https://github.com/mixmaxhq/semantic-release-config/compare/v3.1.1...v3.2.0) (2024-12-16)
 
 
