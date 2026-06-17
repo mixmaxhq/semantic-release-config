@@ -1,3 +1,10 @@
+## [4.1.0](https://github.com/mixmaxhq/semantic-release-config/compare/v4.0.0...v4.1.0) (2026-06-17)
+
+
+### Features
+
+* name the package in the semantic-release success comment ([609fe8c](https://github.com/mixmaxhq/semantic-release-config/commit/609fe8cb2c0cd9819b6b526827b066434d695b3d))
+
 ## [4.0.0](https://github.com/mixmaxhq/semantic-release-config/compare/v3.1.1...v4.0.0) (2024-12-17)
 
 
