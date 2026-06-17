@@ -45,7 +45,15 @@ module.exports = {
     ],
     '@semantic-release/changelog',
     '@semantic-release/npm',
-    '@semantic-release/github',
+    [
+      '@semantic-release/github',
+      {
+        successComment:
+          ':tada: This PR is included in **${nextRelease.gitTag}** :tada:\n\n' +
+          'The release is available on ' +
+          '[GitHub release](${releases.find((release) => /github\\.com/.test(release.url))?.url}).',
+      },
+    ],
     '@semantic-release/git',
   ],
 };
