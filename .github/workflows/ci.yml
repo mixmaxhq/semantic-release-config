@@ -11,3 +11,9 @@ on:
 jobs:
   checks:
     uses: mixmaxhq/github-workflows-public/.github/workflows/checks.yml@main
+
+  release:
+    needs: checks
+    if: github.event_name == 'push'
+    uses: mixmaxhq/github-workflows-public/.github/workflows/release.yml@main
+    secrets: inherit
