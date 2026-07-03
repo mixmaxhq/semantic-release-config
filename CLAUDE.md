@@ -11,7 +11,7 @@ referenced-by: [any Mixmax repo using `semantic-release`, e.g. monorepo-frontend
 
 ## Code map
 - Package preset (npm publishing + changelog + git tag) -> `package/index.js`
-- Module preset (no npm publish, CHANGELOG omitted) -> `module/index.js`
+- Module preset (GitHub release + changelog + git tag, no npm publish) -> `module/index.js`
 - Service preset (production/master-production branches, no npm publish) -> `service/index.js`
 - Self-release config (uses package preset) -> `.releaserc.json`
 
@@ -23,7 +23,6 @@ referenced-by: [any Mixmax repo using `semantic-release`, e.g. monorepo-frontend
 
 ## Gotchas
 - `service/index.js` only releases from `production` or `master-production` branches — PRs merged to `master` will NOT cut a release.
-- `module/index.js` skips the `@semantic-release/changelog` and `@semantic-release/git` steps, so no CHANGELOG is committed back to the repo.
 - No tests (`npm test` exits 1) — lint is the only CI check (`npm run ci`).
 
 ## Run / test
